@@ -30,56 +30,56 @@ const datos = [
         titulo: 'Deep',
         tituloSpan: 'earth',
         image: '../images/mobile/image-deep-earth.jpg',
-        imageDesk: '../images/desktop/image-deep-earth.jpg'
+        imageDesk: 'images/desktop/image-deep-earth.jpg'
     },
     {
         id: 2,
         titulo: 'Night',
         tituloSpan: 'arcade',
         image: '../images/mobile/image-night-arcade.jpg',
-        imageDesk: '../images/desktop/image-night-arcade.jpg'
+        imageDesk: 'images/desktop/image-night-arcade.jpg'
     },
     {
         id: 3,
         titulo: 'Soccer',
         tituloSpan: 'team VR',
         image: '../images/mobile/image-soccer-team.jpg',
-        imageDesk: '../images/desktop/image-soccer-team.jpg'
+        imageDesk: 'images/desktop/image-soccer-team.jpg'
     },
     {
         id: 4,
         titulo: 'The',
         tituloSpan: 'grid',
         image: '../images/mobile/image-grid.jpg',
-        imageDesk: '../images/desktop/image-grid.jpg'
+        imageDesk: 'images/desktop/image-grid.jpg'
     },
     {
         id: 5,
         titulo: 'From up',
         tituloSpan: 'above VR',
         image: '../images/mobile/image-from-above.jpg',
-        imageDesk: '../images/desktop/image-from-above.jpg'
+        imageDesk: 'images/desktop/image-from-above.jpg'
     },
     {
         id: 6,
         titulo: 'rocket',
         tituloSpan: 'borealis',
         image: '../images/mobile/image-pocket-borealis.jpg',
-        imageDesk: '../images/desktop/image-pocket-borealis.jpg'
+        imageDesk: 'images/desktop/image-pocket-borealis.jpg'
     },
     {
         id: 7,
         titulo: 'The',
         tituloSpan: 'curiosity',
         image: '../images/mobile/image-curiosity.jpg',
-        imageDesk: '../images/desktop/image-curiosity.jpg'
+        imageDesk: 'images/desktop/image-curiosity.jpg'
     },
     {
         id: 8,
         titulo: 'Make it',
         tituloSpan: 'fisheye',
         image: '../images/mobile/image-fisheye.jpg',
-        imageDesk: '../images/desktop/image-fisheye.jpg'
+        imageDesk: 'images/desktop/image-fisheye.jpg'
     }
 ]
 
